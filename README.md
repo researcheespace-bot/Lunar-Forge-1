@@ -1,6 +1,5 @@
 # Lunar-Forge-1
-AI-Controlled Robotic Lunar Exploration and Construction Mission designed by a student interested in physics, robotics, and spacecraft engineering.
-Lunar Forge-1: An AI-Controlled Robotic Lunar Exploration and Construction Mission
+Lunar Forge-1 is a conceptual robotic lunar exploration and construction mission that utilizes specialized autonomous robots coordinated by a Central Mission AI. The mission aims to establish lunar infrastructure, identify resources, and prepare for future human exploration.
 
 Author
 
